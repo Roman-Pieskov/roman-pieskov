@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Roman from Ukraine! 👋
 
-<!--
-**Roman-Pieskov/roman-pieskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Full Stack JavaScript & TypeScript Developer!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies and Languages:
+- JavaScript/TypeScript, SQL
+- React, Next.js, React Native, Expo, Redux, Apollo GraphQL
+- Express, NestJS, GraphQL/Rest, MongoDB, PostgreSQL, MySQL, Vector, TypeORM, Redis, Jest
+- Git, GitHub Actions, Docker, Webpack, Jenkins
+- Chat GPT, OpenAI API, Google APIs, Azure API
+- AWS (Elastic Beanstalk, ECR, Code Build, Code Pipeline, lambda, ECS, LB, Cognito, S3, EC2, IAM)
+- Jest, React Testing Library, Cypress, Enzyme, Mocha, Chai, Puppeteer
+- HTML/CSS/SCSS
